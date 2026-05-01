@@ -15,7 +15,7 @@ maintainers = ["eric_G"]
 license = "BSD"
 website = "https://eventschedule.com/"
 admindoc = "https://eventschedule.com/docs"
-code = "https://some.forge.com/example/example"
+code = "https://github.com/eventschedule/eventschedule"
 
 [integration]
 yunohost = ">= 12.1.39"
