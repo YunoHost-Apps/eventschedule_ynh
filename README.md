@@ -26,7 +26,7 @@ Share events, sell tickets and bring communities together
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/eventschedule)](https://ci-apps.yunohost.org/ci/apps/eventschedule/)
 
-🛠️ Upstream EventSchedule repository: <https://some.forge.com/example/example>
+🛠️ Upstream EventSchedule repository: <https://github.com/eventschedule/eventschedule>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/eventschedule_ynh/tree/testing).
 
