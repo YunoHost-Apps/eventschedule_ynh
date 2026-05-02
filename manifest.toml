@@ -62,7 +62,7 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    in_subdir = true
+    in_subdir = false
     url = "https://github.com/eventschedule/eventschedule/releases/download/v1.0.102/eventschedule.zip"
     sha256 = "1e1642bf600367541af70263750a6e7744230f26b6889e323d33ed7b2941cf2b"
     autoupdate.strategy = "latest_github_release"
